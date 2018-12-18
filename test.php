@@ -1,0 +1,3 @@
+<?php
+
+eco "hello word";
